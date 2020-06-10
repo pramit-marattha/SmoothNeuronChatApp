@@ -1,6 +1,6 @@
 # Smooth Neuron Chat App
 
-# Simple Android Chat App 
+# Simple Android Chat Application
 ### Chat with Complete Stranger ..Signup by username and password only (no email required)
 
 
